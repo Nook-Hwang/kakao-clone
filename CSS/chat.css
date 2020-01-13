@@ -20,6 +20,7 @@
     background-image: url("../images/triangle-mosaic.png");
     min-height: 1000vh;
   }
+  
   .chat__write--container {
     position: fixed;
     bottom: 0px;
